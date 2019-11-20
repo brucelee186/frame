@@ -13,6 +13,7 @@ public class CoIndex {
      * 
      * @return
      */
+	
 	@RequestMapping("/coIndex")
 	public String hello() {
 		System.out.println("index");
