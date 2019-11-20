@@ -13,20 +13,6 @@ public class CoIndex {
      * 
      * @return
      */
-
-	
-//	@RequestMapping("/helloworld")
-//    public String hello(){
-//        System.out.println("hello world");
-//        return "success";
-//	}
-	
-//	@RequestMapping("/helloworld")
-//	public String hello() {
-//		System.out.println("hello world");
-//		return "success";
-//	}
-	
 	@RequestMapping("/coIndex")
 	public String hello() {
 		System.out.println("index");
